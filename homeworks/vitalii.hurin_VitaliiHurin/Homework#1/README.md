@@ -1,18 +1,18 @@
 Standards
 ----------------------
  * IEEE 802.11n
-	 * Physical limitations: 
-		 * Max throughput: 600 Mbit/s
-		 * Max range (outdoor): 250 m
+   * Physical limitations: 
+     * Max throughput: 600 Mbit/s
+     * Max range (outdoor): 250 m
  * IEEE 802.3u
-	 * Physical limitations: 
-		 * Max throughput: 100 Mbit/s
-		 * Max length: 100 m
+   * Physical limitations: 
+     * Max throughput: 100 Mbit/s
+     * Max length: 100 m
  * Bluetooth Core Specification V4.0 (Bluetooth Low Energy, Bluetooth Smart)
-	 * Physical limitations: 
-		 * Max bit rate: 1 Mbit/s
-		 * Max range: 100 m
-		 * Max transmit power: 10 mW
+   * Physical limitations: 
+     * Max bit rate: 1 Mbit/s
+     * Max range: 100 m
+     * Max transmit power: 10 mW
 
 Mac Address
 ----------------------
