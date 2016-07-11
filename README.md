@@ -29,7 +29,7 @@ Project structure
 
 # Useful books (will be added through course)
 ----------------------
- * [Browser Networking](https://hpbn.co)
+[Browser Networking](https://hpbn.co)
 ----------------------
 
 
