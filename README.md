@@ -27,12 +27,15 @@ Project structure
 
 # [Homeworks](https://github.com/20awesome/devops-crash-course-2016/issues/1)  
 
+# Useful books (will be added through course)
+----------------------
+ * [Browser Networking](https://hpbn.co)
+----------------------
+
 
 # Useful links
  * [Відеозаписи/скрінкасти занять](https://www.youtube.com/playlist?list=PL7Tk1QIFIqKqGFFKgJ9xQ9JgNsX9Ar3g_ "DevOps Course 2016")
  * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown Cheatsheet")
  * [Try GitHub](https://try.github.io)
 
-# Useful books (will be added through course)
- * [Browser Networking](https://hpbn.co)
 
