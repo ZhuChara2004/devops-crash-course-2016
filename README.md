@@ -2,7 +2,7 @@
 
 --------------------
 
-#Join the chat at https://moc.hipchat.com Room -  "Ansible and Docker"
+Join the chat at https://moc.hipchat.com Room -  "Ansible and Docker"
 
  * Завдання мають надаватися на перевірку:
    * в кодуванні UTF-8
