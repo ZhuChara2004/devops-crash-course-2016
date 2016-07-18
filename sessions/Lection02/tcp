@@ -1,0 +1,9 @@
+
+TCP packets are very complex and incorporate several mechanisms to ensure connection state, reliability, and flow control of data packets:
+Streams: TCP data is organized as a stream of bytes, much like a file.
+Reliable delivery: Sequence numbers are used to coordinate which data has been transmitted and received. TCP will arrange for retransmission if it determines that data has been lost.
+Network adaptation: TCP will dynamically learn the delay characteristics of a network and adjust its operation to maximize throughput without overloading the network.
+Flow control: TCP manages data buffers and coordinates traffic so its buffers will never overflow. Fast senders will be stopped periodically to keep up with slower receivers.
+Round-trip time estimation: TCP continuously monitors the exchange of data packets, develops an estimate of how long it should take to receive an acknowledgement, and automatically retransmits if this time is exceeded.
+http://www.techrepublic.com/article/exploring-the-anatomy-of-a-data-packet/
+http://www.diffen.com/difference/TCP_vs_UDP
